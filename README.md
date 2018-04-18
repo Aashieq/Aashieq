@@ -31,7 +31,7 @@ void *student1(void *arg)
 
 	s->pen+=1; // Student 1 has got pen from Starting
 
-	
+	//ok
 	if(s->pen==0 || s->paper==0 || s->question_paper==0)
 	{
 		s->pen-=1;
